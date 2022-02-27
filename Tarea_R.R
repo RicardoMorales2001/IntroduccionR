@@ -17,4 +17,3 @@ data()
 conc <- subset(DNase, conc >= 0.1 & conc <=0.2)
 conc
 
-
